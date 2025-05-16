@@ -1,4 +1,4 @@
-# Retail Analytics & Uplift Testing
+# Customer Churn Prediction
 Detect Churn Risk by building features around cost sensitivity, tenure, & engagement patterns, and training a Random Forest model that adjusts for imbalance in churn data.
 
 ## Problem Statement
